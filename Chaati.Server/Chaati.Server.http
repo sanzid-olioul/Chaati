@@ -1,0 +1,6 @@
+@Chaati.Server_HostAddress = http://localhost:5025
+
+GET {{Chaati.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
